@@ -83,9 +83,15 @@ Nombre (ej. api-hpa).
 Targets (CPU/Memoria).
 MINPODS, MAXPODS, REPLICAS, AGE.
 
+<img width="749" height="686" alt="image" src="https://github.com/user-attachments/assets/e92a321f-ace7-4ac6-917f-e87bf9af7b1e" />
 
 
 1.4 Navegador accediendo al frontend via IP de MetalLB
 
- 
+<img width="931" height="303" alt="image" src="https://github.com/user-attachments/assets/3b29035c-c2e2-404b-9947-334b0c344b25" />
+
+ <img width="722" height="151" alt="image" src="https://github.com/user-attachments/assets/e00d0881-4f2d-44cd-a692-ad27c377fae3" />
+ <img width="728" height="1081" alt="image" src="https://github.com/user-attachments/assets/3db0d8c0-2786-4feb-9c3d-323c6d072d7f" />
+
+
  
